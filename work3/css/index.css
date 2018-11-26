@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*内联元素水平居中两种方法*/
+.header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* body{
+    text-align: center;
+} */
+.navbar{
+    
+    background-color: #a2dbf9;
+    line-height: 60px;
+}
+.navbar-wrap{
+    width:1200px;
+    height:60px;
+    /* border: 2px solid #000; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.about{
+    height:60px;
+    width:100px;
+    display: block;
+    background: #01AEF0;
+    text-align: center;
+    color:#fff;
+    text-decoration: none;
+}
+.mix{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mix p{
+    text-indent: 30px;
+}
+.footer{
+
+    text-align: center;
+    background: #A2DBF9;
+    
+    
+}
+.a{
+    text-decoration: none;
+}
+.b{
+    text-decoration: none;
+}
+.c{
+    text-decoration: none;
+}

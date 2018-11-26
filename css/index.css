@@ -1,0 +1,39 @@
+*{margin: 0;padding: 0}
+h3{
+    color: white;
+    background-color: pink;
+    line-height: 60px;
+    text-align: center;
+}
+h4:hover{
+    color: #c1c1c1;
+}
+p:hover{
+    color: pink;
+}
+li:hover{
+    color: #ff1493;
+    padding: 5px;
+}
+dl:hover{
+    color: #ff1493;
+}
+dl{
+    margin-top: 15px;
+   
+}
+dt{
+    margin: 5px;
+}
+img{
+    width: 400px;
+    height: 250px;
+}
+div{
+    width: 400px;
+    margin: 0 auto;
+}
+h4,p,li{
+    cursor: pointer;
+    padding:5px;
+}
